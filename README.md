@@ -12,6 +12,11 @@ This project involved the design, development, and experimental optimisation of 
 The robot was designed to handle continuous curves, downhill sections, broken-line segments, 90-degree turns, and U-turns while maintaining stable autonomous motion.
 
 The project integrated hardware design, infrared sensing, embedded control, motor actuation, and wireless communication.
+## Robot Demonstration
+
+Watch the robot navigating the competition course:
+
+[Watch Buggy Race Demonstration Video](buggy%20race%20video.mp4)
 
 ## 2. Hardware Design
 
