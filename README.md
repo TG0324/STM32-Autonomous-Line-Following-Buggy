@@ -16,7 +16,10 @@ The project integrated hardware design, infrared sensing, embedded control, moto
 
 Watch the robot navigating the competition course:
 
-[Watch Buggy Race Demonstration Video](buggy%20race%20video.mp4)
+
+https://github.com/user-attachments/assets/383cf6fd-b0f4-4835-b49e-0aa999e06b3f
+
+
 
 ## 2. Hardware Design
 
